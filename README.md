@@ -1,16 +1,36 @@
-# quiz_dev
+# Cadastro de Usuários para Campanha
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/alefsantana/Quiz-Dev/blob/master/LICENSE) 
 
-A new Flutter application.
+# Sobre o projeto 📁
 
-## Getting Started
+O Quiz Dev é uma aplicação mobile construída durante a 5º edição da **NLW** , evento organizado pela [Rocketseat](https://rocketseat.com.br/ "Site da Rocketseat").
 
-This project is a starting point for a Flutter application.
+A aplicação consiste em um questionário sobre questões realacionadas ao Flutter, onde o usuário responde ao quiz e mede seu conhecimento na linguagem.
 
-A few resources to get you started if this is your first Flutter project:
+## Layout mobile 📱
+![Mobile 1](https://github.com/alefsantana/assets/blob/main/Sequ%C3%AAncia%2001_3.gif) ![Mobile 2](https://github.com/alefsantana/assets/blob/main/quiz_1.png) ![Mobile 3](https://github.com/alefsantana/assets/blob/main/quiz_2.png) ![Mobile 4](https://github.com/alefsantana/assets/blob/main/quiz_3.png) ![Mobile 5](https://github.com/alefsantana/assets/blob/main/quiz_4.png) 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tecnologias utilizadas ⚙️
+
+- Flutter
+- Json 
+
+# Funcionalidades 📌
+
+- Medir conhecimento na Linguagem de Programação. 
+
+
+# Como executar o projeto 📥
+## No Emulador
+Execute o arquivo debug.apk
+
+## No Dispositivo Móvel  
+Execute o arquivo release.apk
+
+
+# Autor 👨‍🎓
+
+Alef Santana 
+
+https://www.linkedin.com/in/alef-santana-28a914133/
