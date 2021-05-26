@@ -1,4 +1,4 @@
-# Cadastro de Usuários para Campanha
+# Quiz Dev
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/alefsantana/Quiz-Dev/blob/master/LICENSE) 
 
 # Sobre o projeto 📁
